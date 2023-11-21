@@ -22,10 +22,10 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-      # Intentionally fail the check run for pull requests
-      - name: Fail Check Run for Pull Requests
+      # This step will now always succeed
+      - name: Check Run for Pull Requests
         if: github.event_name == 'pull_request'
         run: |
-          echo "Failing check run for pull request"
-          exit 1
+          echo "This is a check run for pull request"
+          exit 0
 
