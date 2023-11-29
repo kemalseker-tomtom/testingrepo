@@ -5,7 +5,4 @@ I will do another change. So my test for which webhook event test time new test,
 
 
 First test for database!!
-
-
-Try opening PR as draft!!!
  
