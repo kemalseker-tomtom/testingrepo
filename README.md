@@ -7,5 +7,8 @@ I will do another change. So my test for which webhook event test time new test,
 Testing the application. If it runs or nooott. Do some small fixes, test.
 
 
-Final testing before slack integration
+Final testing before slack integration.
+
+
+Testing slack integration and main functionality. 
  
