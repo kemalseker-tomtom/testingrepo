@@ -11,4 +11,6 @@ Final testing before slack integration.
 
 
 Testing slack integration and main functionality. 
+
+Testing slack integration with right PR name. 
  
