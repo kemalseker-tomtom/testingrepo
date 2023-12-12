@@ -12,5 +12,5 @@ Final testing before slack integration.
 
 Testing slack integration and main functionality. 
 
-Testing slack integration with right PR name. TEST time calculation of the PR analysis and slack integration.
+Testing slack integration with right PR name. TEST time calculation of the PR analysis and slack integration. There is a mistake in PR analysis results. 
  
