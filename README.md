@@ -14,3 +14,5 @@ Testing slack integration and main functionality.
 
 Testing slack integration with right PR name. 
  
+
+New test for slack integration.
