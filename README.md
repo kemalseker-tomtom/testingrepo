@@ -14,5 +14,5 @@ Testing slack integration and main functionality.
 
 Testing slack integration with right PR name. TEST time calculation of the PR analysis and slack integration. There is a mistake in PR analysis results. Test for this purpose. Still testing time for merge. Test time 
 
-Doing some more extensive testing. Test closing without merging. Do not respond!!
+Doing some more extensive testing. Test closing without merging. Do not respond!! Test normal
  
