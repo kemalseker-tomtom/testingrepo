@@ -21,5 +21,5 @@ Doing some more extensive testing. Test closing without merging. Do not respond!
 Testing updated PR closed message. Testing naming of the PR with special characters. New updated message with the link.
 
 
-Time test for the app. New test time repo. Why is this not working? Slack?? Testing closed without merging time metric.
+Time test for the app. New test time repo. Why is this not working? Slack?? Testing closed without merging time metric. Testing closed without merging with review.
  
